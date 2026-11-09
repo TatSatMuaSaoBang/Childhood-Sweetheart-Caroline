@@ -22,13 +22,13 @@
                     "AcceptGift_Neutral": "{{i18n: CSC.GiftTaste.Neutral.{{Random:0,1,2,3,4,5,6}} }}",
                     "AcceptGift_Disliked": "{{i18n: CSC.GiftTaste.Disliked.{{Random:0,1,2,3,4,5,6}} }}",
                     "AcceptGift_Hated": "{{i18n: CSC.GiftTaste.Hated.{{Random:0,1,2,3,4}} }}",
-                    "AcceptGift_(O)213": "{{i18n:CSC.GiftTaste.FishTaco.{{Random:0,1,2}} }}",
-                    "AcceptGift_(O)907": "{{i18n:CSC.GiftTaste.TropicalCurry.{{Random:0,1,2}} }}",
-                    "AcceptGift_(O)593": "{{i18n:CSC.GiftTaste.SummerSpangle.{{Random:0,1,2}} }}",
-                    "AcceptGift_(O)614": "{{i18n:CSC.GiftTaste.GreenTea.{{Random:0,1,2,3,4}} }}",
-                    "AcceptGift_(O)18": "{{i18n:CSC.GiftTaste.Daffodil.{{Random:0,1,2}} }}",
-                    "AcceptGift_(O)16": "{{i18n:CSC.GiftTaste.WildHorseradish.{{Random:0,1,2}} }}",
-                    "AcceptGift_(O)815": "{{i18n:CSC.GiftTaste.TeaLeaves.{{Random:0,1,2,3,4}} }}",
+                    "AcceptGift_(O)213": "{{i18n:CSC.GiftTaste.FishTaco.{{Random:0,1,2,3}} }}",
+                    "AcceptGift_(O)907": "{{i18n:CSC.GiftTaste.TropicalCurry.{{Random:0,1,2,3}} }}",
+                    "AcceptGift_(O)593": "{{i18n:CSC.GiftTaste.SummerSpangle.{{Random:0,1,2,3}} }}",
+                    "AcceptGift_(O)614": "{{i18n:CSC.GiftTaste.GreenTea.{{Random:0,1,2,3,4,5}} }}",
+                    "AcceptGift_(O)18": "{{i18n:CSC.GiftTaste.Daffodil.{{Random:0,1,2,3}} }}",
+                    "AcceptGift_(O)16": "{{i18n:CSC.GiftTaste.WildHorseradish.{{Random:0,1,2,3}} }}",
+                    "AcceptGift_(O)815": "{{i18n:CSC.GiftTaste.TeaLeaves.{{Random:0,1,2,3,4,5}} }}",
                     "AcceptGift_(O)80": "{{i18n:CSC.GiftTaste.Quartz.{{Random:0,1,2}} }}",
                     "AcceptGift_(O)296": "{{i18n:CSC.GiftTaste.Salmonberry.{{Random:0,1,2}} }}",
                     "AcceptBouquet": "{{i18n: Caroline.AcceptBouquet.{{Random:1,2,3}} }}",
@@ -182,6 +182,7 @@
 
                // Winter Dialogue
                     "winter_1": "{{i18n:Caroline.winter1}}",
+                    "winter_7": "{{i18n: Caroline.Expansion.Birthday.{{Random:0,1,2,3,4,5}} }}",
                     "winter_Mon": "{{i18n: Caroline.Added.Daily.winter_Mon.{{Random:0,1}} }}",
                     "winter_Mon2": "{{i18n: Caroline.Added.Daily.winter_Mon2.{{Random:0,1}} }}",
                     "winter_Mon4": "{{i18n: Caroline.Added.Daily.winter_Mon4.{{Random:0,1}} }}",
@@ -242,6 +243,7 @@
                //event aftermath
                     //2 - Museum Book
                     "ShyBook": "{{i18n: Caroline.ShyBook.Dialogue}}",
+                    "CarolineTeaGarden": "{{i18n: Caroline.Expansion.TeaGarden.{{Random:0,1,2,3,4}} }}",
                     //2 - Museum Beauty
                     "CryBook": "{{i18n: Caroline.CryBook.Dialogue}}",
                     //8 - A
