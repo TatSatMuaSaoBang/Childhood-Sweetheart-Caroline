@@ -1981,4 +1981,10 @@
 	"CSC.GiftTaste.Daffodil.3": "A daffodil. Simple, bright, and thoughtful. You do have good taste sometimes. $6",
 	"CSC.GiftTaste.WildHorseradish.3": "This brings back memories of our little woodland adventures. You were always the one who dared me to try things. $2",
 	"CSC.GiftTaste.TeaLeaves.5": "Fresh tea leaves! Now I have an excellent excuse to spend the afternoon experimenting with a new blend. $1",
+
+
+	// Caroline movie-theater fallback dialogue
+	"CSC.Movie1": "A movie night sounds lovely. I always enjoy seeing a story unfold on the big screen. $1",
+	"CSC.Movie2": "I brought my curiosity and a little patience. Let's see whether this film can surprise me. $8",
+	"CSC.Movie3": "That was quite a story! What did you think of the ending? I'm not sure I've made up my mind yet. $6",
 }
