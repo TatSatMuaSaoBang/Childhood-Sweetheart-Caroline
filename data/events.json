@@ -17,7 +17,7 @@
                     message \"{{i18n: Caroline.MuseumBook.9}}\" /speak Caroline \"{{i18n: Caroline.MuseumBook.10}}\" /pause 1000/faceDirection farmer 3/emote Caroline 28/move Caroline 0 1 2/
                     pause 1300/faceDirection Caroline 1/speak Caroline \"{{i18n: Caroline.MuseumBook.11}}\" /advancedMove Caroline false -6 0 2 900 0 10 2 900/
                     pause 1300/message \"{{i18n: Caroline.MuseumBook.12}}\"/faceDirection farmer 0/message \"{{i18n: Caroline.MuseumBook.13}}\"/pause 1000/playSound reward/message \"{{i18n: Caroline.MuseumBook.14}}\"/
-                    addConversationTopic ShyBook 2/questionAnswered CSC.BookRequest false/end",
+                    addConversationTopic ShyBook 2/questionAnswered CSC.BookRequest false/addConversationTopic CarolineTeaGarden 2/end",
                 "MuseumBook.Flirt": 
                     "playMusic none/emote Caroline 8/friendship Caroline 30/move Caroline -1 0 3/speak Caroline \"{{i18n:Caroline.MuseumBook.Flirt.2}}\"/
                     emote farmer 60/message \"{{i18n:Caroline.MuseumBook.Flirt.3}}\"/
