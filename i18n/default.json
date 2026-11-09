@@ -1987,4 +1987,14 @@
 	"CSC.Movie1": "A movie night sounds lovely. I always enjoy seeing a story unfold on the big screen. $1",
 	"CSC.Movie2": "I brought my curiosity and a little patience. Let's see whether this film can surprise me. $8",
 	"CSC.Movie3": "That was quite a story! What did you think of the ending? I'm not sure I've made up my mind yet. $6",
+
+
+	// Birthday gift responses for Caroline
+	"Caroline.Expansion.BirthdayGift.Loved.0": "You remembered what I love most. This might be the sweetest birthday gift yet. $1",
+	"Caroline.Expansion.BirthdayGift.Loved.1": "A birthday gift and a favorite treat? You're spoiling me already. $6",
+	"Caroline.Expansion.BirthdayGift.Loved.2": "Oh, this is perfect! You really do know me better than anyone. $5",
+	"Caroline.Expansion.BirthdayGift.Liked": "That's very thoughtful of you. Thank you for remembering my birthday. $1",
+	"Caroline.Expansion.BirthdayGift.Neutral": "Thank you, sweetie. It's kind of you to bring me something today. $8",
+	"Caroline.Expansion.BirthdayGift.Disliked": "Well... it's the thought that counts. I'll find a use for it, I'm sure. $2",
+	"Caroline.Expansion.BirthdayGift.Hated": "Oh dear... I appreciate the gesture, but I don't think this one's for me. Thank you for thinking of me, though. $8",
 }
