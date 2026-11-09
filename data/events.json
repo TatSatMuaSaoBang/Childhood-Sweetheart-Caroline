@@ -214,7 +214,7 @@
                     emote farmer 28/advancedMove farmer false -1 0 3 1000/message \"{{i18n: Caroline.SaloonHuH.P.9}}\"/playSound hammer/shake Pierre 1000/pause 1200/speak Pierre \"{{i18n: Caroline.SaloonHuH.P.10}}\"/playMusic Hospital_Ambient/
                     message \"{{i18n: Caroline.SaloonHuH.P.11}}\"/shake Pierre 1000/pause 1200/warp Pierre 44 73/playSound throw/animate Pierre false false 100 17 18 19/pause 200/faceDirection farmer 2/showFrame farmer 5/pause 300/globalFade 0.07/viewport -1000 -1000/message \"{{i18n: Caroline.SaloonHuH.P.13}}\"/
                     warp Caroline 45 72/faceDirection Caroline 2/globalFadeToClear 0.07 true/viewport 44 73/speak Caroline \"{{i18n: Caroline.SaloonHuH.P.14}}\"/shake Caroline 1000/pause 1000/jump Caroline 5/emote Caroline 16 true/speak Caroline \"{{i18n: Caroline.SaloonHuH.P.15}}\"/
-                    speak Pierre \"{{i18n: Caroline.SaloonHuH.P.16}}\"/speed Pierre 6/advancedMove Pierre false -10 0 0 -10/globalFade/viewport -1000 -1000/message \"{{i18n: Caroline.SaloonHuH.P.17}}\"/mail Caroline.PierreBribe/addConversationTopic HuH/end newDay",
+                    speak Pierre \"{{i18n: Caroline.SaloonHuH.P.16}}\"/speed Pierre 6/advancedMove Pierre false -10 0 0 -10/globalFade/viewport -1000 -1000/message \"{{i18n: Caroline.SaloonHuh.P.17}}\"/mail Caroline.PierreBribe/addConversationTopic HuH/end newDay",
             }
         },
         // 10 HEARTS - PART 2
